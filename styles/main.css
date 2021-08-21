@@ -1,0 +1,83 @@
+html {
+    background-color: rgb(87, 2, 2);
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+}
+.shop-list {
+    display: flex;
+    padding: 20px 20px 0px 20px;
+    
+    
+}
+.shop1 {
+    flex: 1;
+}
+.shop {
+    border-style: dotted;
+    background-color: blanchedalmond;
+    
+}
+
+
+#first-group {
+    margin-right: 20px;
+}
+
+#second-group {
+    margin-right: 5px;
+}
+
+#third-group {
+    margin-left: 20px;
+}
+
+.list2 {
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+   
+
+}
+#Frothy {
+    background-color: turquoise;
+    width: 400px;
+    margin-left: 60px;
+    
+}
+#horn {
+    background-color: yellowgreen;
+    width: 400px;
+    margin-right: 60px;
+    
+    
+   
+}
+#jam {
+    background-color: turquoise;
+}
+#well {
+    background-color: violet;
+}
+#red {
+    background-color: rgb(109, 50, 205);
+}
+#roast {
+    background-color: yellowgreen;
+}
+
+#java {
+    background-color: whitesmoke;
+}
+
+#fido {
+    background-color: violet;
+}
+#does {
+    background-color: turquoise;
+}
+#sam {
+    background-color: white;
+}
